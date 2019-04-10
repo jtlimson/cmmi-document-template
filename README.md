@@ -1,6 +1,6 @@
 ## CMMI Document Template
 
-Capability Maturity Model Integration Documents
+Tempalte for capability maturity model integration Documents.
 
-for reference please visit https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
+For reference please visit https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
 
