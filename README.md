@@ -1,7 +1,7 @@
 
 ## Agenda
 - [Objectives](#objective)
-- CMMI Background
+- [CMMI Background]
 - Cascade Proper
 
 # Objective
@@ -11,6 +11,8 @@
 - To gain insight in process performance measurements
 - To lean how to use the defined templates and to understand the purpose of the templates
 
+# Background
+----
 # What is CMMI ?
 - Capability Maturity Model Integration (CMMI)
 - The best model the industry has to offer for software process improvement
