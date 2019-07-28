@@ -1,8 +1,8 @@
 
 ## Agenda
 - [Objectives](#objective)
-- [CMMI Background]
-- Cascade Proper
+- [CMMI Background](#background)
+- [Cascade Proper](cascade-proper)
 
 # Objective
 - To Present the Solution Delivery Life Cycle
@@ -12,7 +12,6 @@
 - To lean how to use the defined templates and to understand the purpose of the templates
 
 # Background
-----
 # What is CMMI ?
 - Capability Maturity Model Integration (CMMI)
 - The best model the industry has to offer for software process improvement
@@ -26,7 +25,7 @@
 ![alt text][team_image]
 
 [team_image]: https://lh3.googleusercontent.com/mivkmhgPhUkNNfIVlL8TW5qKf6XriiqDziGBTnYQNLnvlb-Wikxy5IuiNP_52VXvZuDhUtstbUkeeLiD6uSDcNWK_XXIXcPdYEdeH9UDCScSg-utvY89227H7K50OQCAZet3iDav5aT-XlK9gxxJH4lL65Lvqk0J7WVdsHG7sHSOLQtusuJ5MTsjjBzh57GM9jjkX53yOwbL1s30PXZ43uXCzS-rLmyyQFiPz6p4Oak6xUm27LZW6ctVnje8T8WdZuteOUX_e7Ogg5ZHhVWVSiKVOyEVTl-E3_f7SSYeXeVugxZiD-GSGT6D0_pGabg8Ce_QvFyZnIIix1qcAIKkchhQgcwcUwIomd2QvJZmVHbaC80iVhYiLH-1bZLzl34OfqvoNaw9QbTKaXXHEcCHm3o_jbNYrtB9DDuMVtrCgqO-yazrhyyS9W7UVjvtXoLs67Ir-XuO4SYI0uUqGMv26Xvf-fkSWCWwMbecgGAVm319_Kt7NKzyZXPvlyUqS1zpj917GPz7s4ubTF1mDnRw-2Pivfykg8om4Nq6ch_ysHgpyPz4C8bt_vuk04XjT17T6iMJPEfTcm476cC2ZHCmE-TsQMuhtR0NuspZfN5VqQ5Sj89o0gGwitOnlsAwfGJUowMB9O0hxj8zCWqZdazgL5z4ZZb020Ku=w645-h335-no
-
+# Cascade Proper
 # Why CMMI?
 - Emphasizes the development of processes to improve development and customer services in organizations
 - Provide a framework from which to organize and prioritize process improvement activities (product, business, people, technology)
